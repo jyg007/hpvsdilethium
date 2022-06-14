@@ -8,7 +8,7 @@ import (
 	grpc "google.golang.org/grpc"
 	"crypto/tls"
 	"fmt"
-	pb "dilethium/grpc"
+	pb "hpvsdilithium/grpc"
 )
 
 var yamlConfig, _ = ioutil.ReadFile("credential.yaml")

@@ -7,8 +7,8 @@ import (
 	"context"
 	"encoding/asn1"
 	"fmt"
-	"dilethium/ep11"
-	pb "dilethium/grpc"
+	"hpvsdilithium/ep11"
+	pb "hpvsdilithium/grpc"
 
 )
 

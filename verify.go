@@ -7,8 +7,8 @@ import (
 	"os"
 	"crypto/sha256"
 
-	"dilethium/ep11"
-	pb "dilethium/grpc"
+	"hpvsdilithium/ep11"
+	pb "hpvsdilithium/grpc"
 )
 
 

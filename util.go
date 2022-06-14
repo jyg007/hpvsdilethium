@@ -9,8 +9,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"dilethium/ep11"
-	pb "dilethium/grpc"
+	"hpvsdilithium/ep11"
+	pb "hpvsdilithium/grpc"
 
 	"google.golang.org/grpc/status"
 
